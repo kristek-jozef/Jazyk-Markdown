@@ -1,4 +1,4 @@
-# jazyk_markdown
+# Jazyk Markdown
 Repo pre trening jazyka Markdown
 
 # Nadpis H1 - hlavny nadpis
@@ -6,3 +6,12 @@ Repo pre trening jazyka Markdown
 # 1. Nazov projektu
 
 # 2. Popis projektu
+
+## Nadpis H2 - podnadpis
+
+## Nadpis H2 - podnadpis
+
+### Nadpis H3 - podpodnadpis
+#### Nadpis H4 - podpodnadpis
+##### Nadpis H5 - podpodnadpis
+###### Nadpis H6 - podpodnadpis
