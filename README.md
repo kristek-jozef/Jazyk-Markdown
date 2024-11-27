@@ -26,6 +26,22 @@ Heading level 2
 ---------------
 
 **Dnes** je _pekny_ den   
-zajtra tiez
+zajtra tiez  
+>toto je bloq  
+>toto je dalsi  
 
-vvv  
+Nakupny zoznam
+- prva
+- druha
+- tretia
+
+alebo
+* prvy
+* druhy
+* treti
+
+alebo 
+1. dd
+2. dd
+1. ddd
+4. 
